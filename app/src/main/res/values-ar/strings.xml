@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SecureLens</string>
+    <string name="device_admin_description">يراقب محاولات إلغاء قفل الشاشة الفاشلة لحماية خصوصيتك وتسجيل الأحداث الأمنية.</string>
+    <string name="skip">تخطي</string>
+    <string name="continue_btn">متابعة</string>
+    <string name="get_started">ابدأ الآن</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="try_again">إعادة المحاولة</string>
+    <string name="save_preferences">حفظ التفضيلات</string>
+    <string name="back">رجوع</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="rename">إعادة تسمية</string>
+    <string name="export_copy">تصدير نسخة</string>
+    <string name="save">حفظ</string>
+    <string name="got_it">فهمت</string>
+    <string name="go_to_app">الانتقال إلى التطبيق</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_devices">الأجهزة</string>
+    <string name="nav_rooms">الغرف</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="home_title">كاشف الكاميرات الخفية</string>
+    <string name="home_subtitle">افحص محيطك واكتشف الأجهزة المشبوهة باستخدام الواي فاي والبلوتوث والمزيد.</string>
+    <string name="start_full_scan">بدء فحص شامل</string>
+    <string name="scan_wifi">فحص الواي فاي</string>
+    <string name="scan_bluetooth">فحص البلوتوث</string>
+    <string name="camera_detection">كشف الكاميرا</string>
+    <string name="tips_guide">نصائح ودليل</string>
+    <string name="private_vault">الخزنة الخاصة</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SecureLens</string>
+    <string name="device_admin_description">آپ کی پرائیویسی کی حفاظت اور سیکیورٹی ایونٹس کو ریکارڈ کرنے کے لیے اسکرین انلاک کی ناکام کوششوں کی نگرانی کرتا ہے۔</string>
+    <string name="skip">چھوڑیں</string>
+    <string name="continue_btn">جاری رکھیں</string>
+    <string name="get_started">شروع کریں</string>
+    <string name="not_now">ابھی نہیں</string>
+    <string name="try_again">دوبارہ کوشش کریں</string>
+    <string name="save_preferences">ترجیحات محفوظ کریں</string>
+    <string name="back">واپس</string>
+    <string name="cancel">منسوخ</string>
+    <string name="delete">حذف کریں</string>
+    <string name="rename">نام تبدیل کریں</string>
+    <string name="export_copy">ایک کاپی برآمد کریں</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="got_it">سمجھ گیا</string>
+    <string name="go_to_app">ایپ پر جائیں</string>
+    <string name="nav_home">ہوم</string>
+    <string name="nav_devices">آلات</string>
+    <string name="nav_rooms">کمرے</string>
+    <string name="nav_settings">ترتیبات</string>
+    <string name="home_title">پوشیدہ کیمرہ ڈٹیکٹر</string>
+    <string name="home_subtitle">اپنے اردگرد کا معائنہ کریں اور وائی فائی، بلوٹوتھ وغیرہ کے ذریعے مشکوک آلات کا پتہ لگائیں۔</string>
+    <string name="start_full_scan">مکمل اسکین شروع کریں</string>
+    <string name="scan_wifi">وائی فائی اسکین</string>
+    <string name="scan_bluetooth">بلوٹوتھ اسکین</string>
+    <string name="camera_detection">کیمرہ ڈٹیکشن</string>
+    <string name="tips_guide">رہنمائی اور نکات</string>
+    <string name="private_vault">نجی والٹ</string>
+</resources>

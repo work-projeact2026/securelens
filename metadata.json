@@ -1,0 +1,6 @@
+{
+  "name": "SecureLens",
+  "description": "Smart privacy and hidden camera detector toolkit with encrypted vault and security tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

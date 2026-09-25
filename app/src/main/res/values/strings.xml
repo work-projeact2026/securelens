@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">SecureLens</string>
+    <string name="device_admin_description">Monitors failed device screen unlock attempts to protect your privacy and log security events.</string>
+
+    <!-- Onboarding & Common -->
+    <string name="skip">Skip</string>
+    <string name="continue_btn">Continue</string>
+    <string name="get_started">Get Started</string>
+    <string name="not_now">Not Now</string>
+    <string name="try_again">Try Again</string>
+    <string name="save_preferences">Save Preferences</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="export_copy">Export a copy</string>
+    <string name="save">Save</string>
+    <string name="got_it">Got It</string>
+    <string name="go_to_app">Go to App</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_rooms">Rooms</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Onboarding Screens -->
+    <string name="onboarding_1_title">A Safer Place Starts Here</string>
+    <string name="onboarding_1_sub">Detect hidden cameras, protect your privacy and feel safe wherever you go.</string>
+    <string name="onboarding_2_title">Find What Is Hidden</string>
+    <string name="onboarding_2_sub">Inspect your surroundings with practical optical and nearby-device tools.</string>
+    <string name="onboarding_3_title">Discover Nearby Devices</string>
+    <string name="onboarding_3_sub">Review Wi-Fi and Bluetooth devices using available Android scanning features.</string>
+    <string name="onboarding_4_title">Your Privacy Matters</string>
+    <string name="onboarding_4_sub">Keep your photos, recordings and security events in a private vault.</string>
+    
+    <string name="promo_title">More Tools. More Control.</string>
+    <string name="promo_sub">Explore optional advanced features when available.</string>
+    <string name="promo_card_title">SecureLens Premium</string>
+    <string name="promo_card_desc">Compare plans and terms before purchasing. Nothing is charged from this preview.</string>
+    <string name="continue_free">Continue with Free</string>
+    <string name="promo_foot">No subscription is required to finish setup.</string>
+
+    <string name="perm_intro_title">Your privacy, in your hands.</string>
+    <string name="perm_intro_sub">Only grant access when you use a feature. You can manage permissions in Android Settings at any time.</string>
+    <string name="review_permissions">Review Permissions</string>
+    <string name="perm_setup_title">Set up your tools</string>
+    <string name="perm_setup_sub">Turn on only the permissions you need. You can complete setup and enable the rest later.</string>
+
+    <!-- Home -->
+    <string name="home_title">Hidden Camera Detector</string>
+    <string name="home_subtitle">Scan your surroundings and detect suspicious devices using Wi-Fi, Bluetooth and more.</string>
+    <string name="start_full_scan">Start Full Scan</string>
+    <string name="start_full_scan_desc">Scan for hidden cameras in your area</string>
+    <string name="scan_wifi">Scan Wi-Fi</string>
+    <string name="scan_wifi_desc">Detect devices</string>
+    <string name="scan_bluetooth">Scan Bluetooth</string>
+    <string name="scan_bluetooth_desc">Find nearby devices</string>
+    <string name="camera_detection">Camera Detection</string>
+    <string name="camera_detection_desc">Check with camera lens</string>
+    <string name="tips_guide">Tips &amp; Guide</string>
+    <string name="tips_guide_desc">Learn how to stay safe</string>
+    <string name="magnetic_scanner">Magnetic Scanner</string>
+    <string name="magnetic_scanner_desc">Observe magnetic fields</string>
+    <string name="thermal_view">Thermal View</string>
+    <string name="thermal_view_desc">Demonstration simulator</string>
+    <string name="secure_recorder">Secure Recorder</string>
+    <string name="secure_recorder_desc">Video &amp; audio protection</string>
+    <string name="private_vault">Private Vault</string>
+    <string name="private_vault_desc">Encrypted local storage</string>
+    <string name="intruder_guard">Intruder Guard</string>
+    <string name="intruder_guard_desc">Failed unlock monitoring</string>
+
+    <!-- Scan & Devices -->
+    <string name="scan_methods_title">Choose Scan Method</string>
+    <string name="select_a_method">Select a method</string>
+    <string name="select_a_method_sub">Each method provides a different clue about your surroundings.</string>
+    <string name="disclaimer_scan">No single method proves the presence or absence of a hidden camera.</string>
+    <string name="devices_scanned">Devices Scanned</string>
+    <string name="needs_review">Needs Review</string>
+    <string name="suspicious">Suspicious</string>
+    <string name="safe">Safe</string>
+    <string name="other">Other</string>
+    <string name="observed">Observed</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="scan_network">Scan Network</string>
+    <string name="view_all_devices">View All Devices</string>
+    <string name="scan_again">Scan Again</string>
+
+    <!-- Vault & Recorder -->
+    <string name="protect_vault_title">Protect your vault</string>
+    <string name="protect_vault_desc">Create a six-digit PIN to protect private media.</string>
+    <string name="confirm_pin_title">Confirm your PIN</string>
+    <string name="confirm_pin_desc">Enter your new PIN one more time.</string>
+    <string name="you_are_all_set">You’re All Set!</string>
+    <string name="you_are_all_set_sub">Your private security tools are ready to use.</string>
+    <string name="start_video_recording">Start Video Recording</string>
+    <string name="start_audio_recording">Start Audio Recording</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop_save">Stop &amp; Save</string>
+    <string name="saved_to_vault">Saved to your vault</string>
+    <string name="saved_to_vault_desc">Your recording is indexed and encrypted after finalization.</string>
+    <string name="view_in_vault">View in Vault</string>
+    <string name="record_another">Record Another</string>
+</resources>
